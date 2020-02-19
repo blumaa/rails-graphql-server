@@ -46,3 +46,8 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem 'devise', '~> 4.2'
+
+group :development do
+  gem 'faker', '~> 2.10', '>= 2.10.2'
+
+end
