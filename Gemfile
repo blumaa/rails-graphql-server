@@ -52,3 +52,5 @@ group :development do
   gem 'faker', '~> 2.10', '>= 2.10.2'
 
 end
+
+gem 'graphiql-rails', group: :development
